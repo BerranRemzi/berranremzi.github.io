@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Berran Remzi
 title: Embedded Software Developer
-email: brett.h@email.co.uk
+email: berranremzi@**********
 website: github.com/berranremzi
 
 # Dark Mode (true/false/never)
@@ -110,7 +110,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
