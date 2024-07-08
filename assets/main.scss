@@ -3,3 +3,12 @@
 ---
 
 @import 'modern-resume-theme';
+
+@media print {
+    a[href]:after{
+        content: normal !important;
+    }
+    img[src]:after{
+        content: normal !important;
+    }
+}
