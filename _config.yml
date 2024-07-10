@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Berran, an electronics engineer with a rich background in embedded software and hardware design. My journey in the automotive industry has allowed me to refine my skills in embedded systems, contributing to innovative solutions in vehicle technology. Throughout my career, I've transformed theoretical knowledge into practical applications, working with leading companies to advance automotive engineering.
 
-  I am most skilled in: <mark>embedded software</mark> and <mark>code optimisation</mark>
+  I am most skilled in: <mark>Embedded Software</mark>, <mark>Code Optimisation</mark>, <mark>Eating Pizza & Pasta</mark>
 
 content:
   - title: Projects # Title for the section
