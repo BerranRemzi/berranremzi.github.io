@@ -16,24 +16,24 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  sproogen
+github_username:  BerranRemzi
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: BerranRemzi
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: BerranRemzi
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello, I'm Berran, an electronics engineer with a rich background in embedded software and hardware design. My journey in the automotive industry has allowed me to refine my skills in embedded systems, contributing to innovative solutions in vehicle technology. Throughout my career, I've transformed theoretical knowledge into practical applications, working with leading companies to advance automotive engineering.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>embedded software</mark> and <mark>code optimisation</mark>
 
 content:
   - title: Projects # Title for the section
@@ -103,14 +103,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      Alongside my interests in embedded systems some of my other interests and hobbies are:
+      - Unicycling
+      - 3D printing
+      - Arduino
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+#      Look at this cool image  
+#      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
