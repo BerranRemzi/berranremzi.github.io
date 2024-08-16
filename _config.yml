@@ -85,7 +85,18 @@ content:
           The likelihood of your 15-year-old car turning off headlights on its own is next to nothing. This results from understanding the requirements, planning, experience, precise development, and testing.
         description: | # This will include new lines to allow paragraphs
             Design, develop, and maintain embedded software for automotive systems, including but not limited to steering column modules. Analyze system requirements and translate them into software designs.
-
+      
+      - layout: left
+        title: Reborn PCB LTD
+        link: sirius-pcb.com
+        # link_text: sirius-pcb.com
+        sub_title: Embedded Developer
+        caption: April 2018 - March 2019
+        quote: >
+            There was a time when I was professionally engaged in hobby electronics
+        description: | # This will include new lines to allow paragraphs
+            Design electronics circuits and PCBs for projects. Developing firmware for 8-bit microcontrollers. Preparation of production files, pick and place files, manuals for PCBA tests
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
