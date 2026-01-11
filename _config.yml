@@ -80,7 +80,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: Mbition EOOD
+        title: Mbition Sofia
+        link: mbition.io
         sub_title: Software Engineer
         caption: January 2025 - Present
         description: | # this will include new lines to allow paragraphs
