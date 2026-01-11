@@ -6,34 +6,35 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Berran Remzi
+title: Embedded Software Developer
+email: berranremzi@gmail.com
+website: 401183.xyz
+phone: +359 899 401183
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username: BerranRemzi
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: Sofia, Bulgaria
+  icon: fas fa-map-marker-alt
+  url: https://www.google.com/maps/place/Sofia,+Bulgaria
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,72 +46,139 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Profile
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Electronics engineer with embedded development experience in the automotive industry and good electronics design and software development knowledge. Strong logical and analytical thinking, problem-solving skills, and supporter of the KISS principle. I am also a friendly, creative, and responsible person.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  **Languages:** Turkish (Native), Bulgarian (C2), English (B2)
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Professional Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      **Software & Development:**
+      - Software Testing – <mark>TDD</mark>, <mark>Tessy</mark>
+      - IDE – <mark>Eclipse</mark>, <mark>VS</mark>, <mark>VS Code (PlatformIO)</mark>, <mark>MPLAB IDE</mark>
+      - Coding practices in compliance with <mark>MISRA-C</mark> and <mark>QAC</mark>
+      - <mark>C++</mark> with OOP, <mark>C# .NET</mark>
+      
+      **Hardware & Electronics:**
+      - PCB Design Software - <mark>Altium Designer</mark>, <mark>EasyEDA</mark>
+      - Microcontrollers – 8bit (<mark>PIC</mark>, <mark>AVR</mark>), 32bit (<mark>STM</mark>, <mark>NXP</mark>)
+      - Analog circuits design and verification - <mark>LTspice</mark>
+      - Testing of electronic devices with oscilloscope, logic analyzer
+      - Soldering SMD & THT components
+      
+      **CAD & Design:**
+      - CAD program - <mark>SolidWorks</mark>, <mark>FreeCAD</mark>
+      - 3D printer – maintenance and print preparation
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Kostal Bulgaria Automotive LTD
+        link: kostal.com
+        sub_title: Embedded Software Developer
+        caption: March 2019 - Present
+        description: | # this will include new lines to allow paragraphs
+          Designing and implementing embedded software based on specifications for automotive applications.
+
+      - layout: left
+        title: Reborn PCB LTD
+        link: sirius-pcb.com
+        sub_title: Embedded Developer
+        caption: April 2018 – March 2019
+        description: | # this will include new lines to allow paragraphs
+          - Design electronics circuit and PCB for projects
+          - Developing firmware for 8-bit microcontrollers
+          - Preparation of Production files, Pick and place files, manuals for PCBA tests
+
+      - layout: left
+        title: Tesy LTD
+        link: tesy.com
+        sub_title: Automation Maintenance Engineer
+        caption: November 2016 - October 2017
+        description: | # this will include new lines to allow paragraphs
+          Maintenance and repair of production lines for electrical water heaters manufacturing.
+          
+          **Achievement:** Developed a control algorithm for Siemens PLC for a 2-axis manipulator
+
+      - layout: left
+        title: Steiner Elektronik LTD
+        sub_title: Technologist-Test Engineer
+        caption: July 2016 - October 2016
+        description: | # this will include new lines to allow paragraphs
+          - Developing test modules for PCBA
+          - Preparation of working manual for test modules
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: Personal Electronics Projects
+        description: | # this will include new lines to allow paragraphs
+          - **Dimmer Regulator** - PWM-based lighting control system
+          - **PLC based on PIC16** - Custom programmable logic controller
+          - **8ch Light effect** - Multi-channel lighting controller
+          - **Stepper motor controller** - Precision motor control system
+          - **2x16 LCD Energy Meter** - Digital energy monitoring device
+          - **Ah Meter** - Ampere-hour measurement device
+          - **ModBus Relays** - Industrial communication relay system
+          - **7-segment PWM Regulator** - Display-based control system
+          - **Solid State Fuse** - Electronic circuit protection
+
+      - layout: top-middle
+        title: Academic & Competitive Projects
+        description: | # this will include new lines to allow paragraphs
+          - **Multifunctional robot** for robotic contest (Turbo Snail), Club Robotics, RU "Angel Kanchev", 2017
+          - **Ball balance plate** with computer vision, Electronics department, RU "Angel Kanchev", 2017
+          - **Autonomous car** with OpenCV with Marsboard A20 (Linux Debian), 2016
+          - **Multi-channel RGB led matrix controller** for "Club Black and White" Rousse, 2016
+          - **INDESIT compatible wash machine controller** for "ISTEK Service" EOOD, 2016
+          - **Microprocessor control system for 3D printer** with servo motors, 2016 (Master diploma project)
+          - **Human action recognition** with OpenCV (Computer Vision), 2015 (Bachelor diploma project)
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: University of Ruse "Angel Kanchev"
+        caption: 2015 - 2016
+        sub_title: Master of Electronics
+        description: | # this will include new lines to allow paragraphs
+          Advanced studies in electronics engineering with focus on microprocessor control systems and embedded design.
+
+      - layout: left
+        title: University of Ruse "Angel Kanchev"
+        caption: 2011 - 2015
+        sub_title: Bachelor of Electronics
+        description: | # this will include new lines to allow paragraphs
+          Comprehensive electronics engineering education with specialization in computer vision and embedded systems.
+
+      - layout: left
+        title: PGMP "Vladimir Komarov"
+        caption: 2005 - 2010
+        sub_title: High School - Industrial Electronics
+        description: | # this will include new lines to allow paragraphs
+          Technical high school education focused on industrial electronics and electrical systems.
+
+  - title: Honors & Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **Awards:**
+      - 2nd place in Bluetooth at Day of Robotic and Mechatronic 2016, RU "Angel Kanchev"
+      - 3rd place in freestyle at Day of Robotic and Mechatronic 2016, RU "Angel Kanchev"
+      - 2nd place in freestyle at Day of Robotic and Mechatronic 2016, RU "Angel Kanchev"
+      - 3rd place in freestyle at Days of Robotics 2016, Technical University Sofia
+      - Best rated on "National external evaluation of Physics" 2006
+      - Best rated on "Contest electrical and electronics" 2010, University of Ruse
+
+      **Publications:**
+      - "Computerized feedback control system with usage of computer vision" - Scientific student session 2016, RU "Angel Kanchev"
+      - "Microprocessor control system for 3D printers with direct current motors" - Scientific student session 2016, RU "Angel Kanchev"
+      - "Investigation of electronic control system using computer vision" - Magazine "Elektronika", Poland
 
 # Footer
 footer_show_references: true
