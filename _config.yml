@@ -49,9 +49,11 @@ additional_links:
 about_title: Profile
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Electronics engineer with embedded development experience in the automotive industry and good electronics design and software development knowledge. Strong logical and analytical thinking, problem-solving skills, and supporter of the KISS principle. I am also a friendly, creative, and responsible person.
+  Software engineer with over 6 years of experience in automotive embedded systems development. Specialized in designing and implementing robust, safety-critical software solutions for the automotive industry. Strong advocate of clean code principles and test-driven development, with a proven track record of delivering high-quality embedded software in compliance with industry standards (MISRA-C, QAC).
+  
+  Combining deep expertise in electronics design with modern software engineering practices, I bring a unique perspective to solving complex technical challenges. Passionate about bridging the gap between hardware and software to create innovative automotive solutions.
 
-  **Languages:** Turkish (Native), Bulgarian (C2), English (B2)
+  **Languages:** Bulgarian (Native), Turkish (Native), English (B2)
 
 content:
   - title: Professional Skills
@@ -82,7 +84,7 @@ content:
         sub_title: Software Engineer
         caption: January 2025 - Present
         description: | # this will include new lines to allow paragraphs
-          Developing automotive software for Mercedes-Benz. Mbition is a daughter company of Mercedes-Benz specialized in automotive software development.
+          Developing cutting-edge automotive software solutions for Mercedes-Benz. Mbition is a Mercedes-Benz Group subsidiary specializing in next-generation automotive software platforms and digital services.
 
       - layout: left
         title: Kostal Bulgaria Automotive LTD
