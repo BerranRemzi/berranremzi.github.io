@@ -98,9 +98,22 @@ content:
         sub_title: Embedded Developer
         caption: April 2018 – March 2019
         description: | # this will include new lines to allow paragraphs
+          Professional design of hobby electronics, manufacturing of PCB, hobby-kits, and projects by customer's assignment.
+          
           - Design electronics circuit and PCB for projects
           - Developing firmware for 8-bit microcontrollers
           - Preparation of Production files, Pick and place files, manuals for PCBA tests
+          
+          **Projects developed:**
+          - **Dimmer Regulator** - PWM-based lighting control system
+          - **PLC based on PIC16** - Custom programmable logic controller
+          - **8ch Light effect** - Multi-channel lighting controller
+          - **Stepper motor controller** - Precision motor control system
+          - **2x16 LCD Energy Meter** - Digital energy monitoring device
+          - **Ah Meter** - Ampere-hour measurement device
+          - **ModBus Relays** - Industrial communication relay system
+          - **7-segment PWM Regulator** - Display-based control system
+          - **Solid State Fuse** - Electronic circuit protection
 
       - layout: left
         title: Tesy LTD
@@ -123,19 +136,6 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-middle
-        title: Personal Electronics Projects
-        description: | # this will include new lines to allow paragraphs
-          - **Dimmer Regulator** - PWM-based lighting control system
-          - **PLC based on PIC16** - Custom programmable logic controller
-          - **8ch Light effect** - Multi-channel lighting controller
-          - **Stepper motor controller** - Precision motor control system
-          - **2x16 LCD Energy Meter** - Digital energy monitoring device
-          - **Ah Meter** - Ampere-hour measurement device
-          - **ModBus Relays** - Industrial communication relay system
-          - **7-segment PWM Regulator** - Display-based control system
-          - **Solid State Fuse** - Electronic circuit protection
-
       - layout: top-middle
         title: Academic & Competitive Projects
         description: | # this will include new lines to allow paragraphs
