@@ -93,7 +93,13 @@ content:
         sub_title: Embedded Software Developer
         caption: March 2019 - December 2024
         description: | # this will include new lines to allow paragraphs
-          Designing and implementing embedded software based on specifications for automotive applications.
+          Developed safety-critical embedded automotive software for steering column modules supplied to major European automotive brands. Worked with modular AUTOSAR-like architecture, successfully passing multiple <mark>ASPICE</mark> audits.
+          
+          - Developed <mark>Basic Software (BSW)</mark> layers including drivers, OS abstraction, and communication stacks
+          - Implemented <mark>Software Components (SWC)</mark> for application-level functionality
+          - Created <mark>Complex Device Drivers (CDD)</mark> for hardware interfacing and control
+          - Provided production support with configuration files and technical documentation
+          - Ensured compliance with automotive standards (<mark>MISRA-C</mark>, <mark>ASPICE</mark>)
 
       - layout: left
         title: Reborn PCB LTD
