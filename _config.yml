@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Berran Remzi
-title: Embedded Software Developer
+title: Software Engineer
 email: berranremzi@gmail.com
 website: 401183.xyz
 phone: +359 899 401183
@@ -23,7 +23,7 @@ github_username: BerranRemzi
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: berranremzi
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -78,10 +78,17 @@ content:
     layout: list
     content:
       - layout: left
+        title: Mbition EOOD
+        sub_title: Software Engineer
+        caption: January 2025 - Present
+        description: | # this will include new lines to allow paragraphs
+          Developing automotive software for Mercedes-Benz. Mbition is a daughter company of Mercedes-Benz specialized in automotive software development.
+
+      - layout: left
         title: Kostal Bulgaria Automotive LTD
         link: kostal.com
         sub_title: Embedded Software Developer
-        caption: March 2019 - Present
+        caption: March 2019 - December 2024
         description: | # this will include new lines to allow paragraphs
           Designing and implementing embedded software based on specifications for automotive applications.
 
